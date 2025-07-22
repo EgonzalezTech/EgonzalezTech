@@ -30,7 +30,7 @@ I’m a passionate and dedicated Full Stack Developer currently pursuing a diplo
 
 ## 📫 Get in Touch
 
-- ✉️ Email: ed.gonzalez@gmail.com.com 
+- ✉️ Email: edgonzalez.mendoza@gmail.com.com 
 - 💼 LinkedIn: [https://www.linkedin.com/in/edwin-gonzalez-15nov79/)
 - 🌐 Portfolio: [egonzalez.tech](https://egonzalez.tech) 
 
