@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Edwin Gonzalez
 
-I'm a Full Stack Developer passionate about building smart and modern web solutions using the JavaScript and Python ecosystems. I enjoy tackling challenging problems, learning something new every day, and collaborating with others to bring ideas to life.
+I’m a passionate and dedicated Full Stack Developer currently pursuing a diploma in Web Development and Internet Applications at Algonquin College. My technical toolkit includes React, Next.js, Node.js, JavaScript, Python, Django, PostgreSQL, and MySQL , allowing me to build robust, scalable, and user-centered web applications from end to end.
 
 ---
 
@@ -30,8 +30,8 @@ I'm a Full Stack Developer passionate about building smart and modern web soluti
 
 ## 📫 Get in Touch
 
-- ✉️ Email: edwin.gonzalez@email.com *(replace with your real one)*
-- 💼 LinkedIn: [linkedin.com/in/edwingonzalez](https://linkedin.com/in/edwingonzalez)
+- ✉️ Email: ed.gonzalez@gmail.com.com 
+- 💼 LinkedIn: [https://www.linkedin.com/in/edwin-gonzalez-15nov79/)
 - 🌐 Portfolio: [egonzalez.tech](https://egonzalez.tech) 
 
 ---
