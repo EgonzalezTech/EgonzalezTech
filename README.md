@@ -15,6 +15,7 @@ I’m a passionate and dedicated Full Stack Developer currently pursuing a diplo
 ### Backend
 - 🐍 Python / Django / Django REST Framework
 - 🧱 Node.js / Express.js
+- 🐘 PHP / Laravel (also used for backend projects)
 
 ### Databases
 - 🐘 PostgreSQL / MySQL
@@ -31,9 +32,10 @@ I’m a passionate and dedicated Full Stack Developer currently pursuing a diplo
 
 ## 📫 Get in Touch
 
-- ✉️ Email: edgonzalez.mendoza@gmail.com.com 
-- 💼 LinkedIn: [https://www.linkedin.com/in/edwin-gonzalez-15nov79/)
-- 🌐 Portfolio: [egonzalez.tech](https://egonzalez.tech) 
+
+- ✉️ Email: edgonzalez.mendoza@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/edwin-gonzalez-15nov79/](https://www.linkedin.com/in/edwin-gonzalez-15nov79/)
+- 🌐 Portfolio: [egonzalez.tech](https://egonzalez.tech)
 
 ---
 
