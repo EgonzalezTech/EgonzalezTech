@@ -8,6 +8,7 @@ I’m a passionate and dedicated Full Stack Developer currently pursuing a diplo
 
 ### Frontend
 - ⚛️ React.js / Next.js
+- 🐘 PHP / Laravel
 - 💅 TailwindCSS / Bootstrap
 - 📦 Redux / Zustand / Context API
 
